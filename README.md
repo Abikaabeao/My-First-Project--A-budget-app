@@ -1,4 +1,4 @@
-# A budget application
+# A budget application2
 
 ## This is my first coding/dev project in the last 12 years
 
